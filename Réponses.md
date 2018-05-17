@@ -49,3 +49,15 @@ C'est une variation faux-sens (Glu-->Asp).
 ### Q9
 [NM_000451.3:c.399G>C in UCSC] (http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chrX%3A595464%2D595484&hgsid=669220969_RJZM5WTDGuxe6uuqb4SboMRTxTXH)
 ### Q10
+La gène est sur le brin sens.
+### Q11
+Il y a 6 exons dont 5 codants.
+### Q12
+Le variant se trouve dans l'exon 3.
+### Q13
+Il se trouve dans une région très conservée.
+### Q14
+Dans le domaine homéobox .
+### Q15
+https://www.ncbi.nlm.nih.gov/pubmed/24051572
+### Q17
